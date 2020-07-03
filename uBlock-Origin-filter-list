@@ -1,10 +1,11 @@
 ! Title: glenta's custom uBlock Origin filter list
-! Last Updated: June 29, 2020 EDT
+! Last Updated: July 2, 2020 EDT
 
 ! 4/21/2020 https://dashboard.honeygain.com
 dashboard.honeygain.com##.bBUePv.sc-eHgmQL.sc-ckVGcZ
 
-! 6/30/2020 https://trakt.tv
+! 7/2/2020 https://trakt.tv
 trakt.tv##.col-xs-6.col-sm-3.col-md-3.col-lg-2.col-xlg-2.col-xxlg-1.hu-ck--st-er-grid-item.grid-item
 trakt.tv##.col-xs-6.col-sm-3.col-md-3.col-lg-2.col-xlg-2.col-xxlg-1.hu-ck-s-t-er-grid-item.grid-item
 trakt.tv##.col-sm-6.col-md-4.col-xlg-3.hu-ck-s-t-er-grid-item.grid-item
+trakt.tv###hu-ck-s-t-er-de-sk-top-wrapper
