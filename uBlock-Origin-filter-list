@@ -2,18 +2,20 @@
 ! Last Updated: July 2, 2020 EDT
 
 ! 4/21/2020 https://dashboard.honeygain.com
-! Removes annoying cookie? banner
+! Removes cookie banner
 dashboard.honeygain.com##.bBUePv.sc-eHgmQL.sc-ckVGcZ
 
 ! 7/2/2020 https://trakt.tv
-! Removes ads
+! Removes ads from home, search, and movie/show pages
 trakt.tv##.col-xs-6.col-sm-3.col-md-3.col-lg-2.col-xlg-2.col-xxlg-1.hu-ck--st-er-grid-item.grid-item
 trakt.tv##.col-xs-6.col-sm-3.col-md-3.col-lg-2.col-xlg-2.col-xxlg-1.hu-ck-s-t-er-grid-item.grid-item
 trakt.tv##.col-sm-6.col-md-4.col-xlg-3.hu-ck-s-t-er-grid-item.grid-item
 trakt.tv###hu-ck-s-t-er-de-sk-top-wrapper
 
 ! 2020-11-16 https://discord.com
-! Removes Install our app please icon
+! Removes install our app icon so interface matches Discord Desktop Application
 discord.com##div.listItem-2P_4kh:nth-of-type(7) > .listItemWrapper-3X98Pc > .wrapper-25eVIn.circleButtonMask-2VNJsN > .svg-1X37T1 > foreignObject > .circleIconButton-jET_ig
 discord.com##div.listItem-2P_4kh:nth-of-type(7) > .listItemWrapper-3X98Pc > .wrapper-25eVIn.circleButtonMask-2VNJsN > .svg-1X37T1 > foreignObject
 discord.com##div.listItem-2P_4kh:nth-of-type(7) > .listItemWrapper-3X98Pc > .wrapper-25eVIn.circleButtonMask-2VNJsN > .svg-1X37T1
+discord.com##div.listItem-2P_4kh:nth-of-type(7) > .listItemWrapper-3X98Pc > .wrapper-25eVIn.circleButtonMask-2VNJsN
+discord.com##div.listItem-2P_4kh:nth-of-type(6) > .guildSeparator-3s64Iy
