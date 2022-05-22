@@ -5,11 +5,6 @@
 ! Removes cookie banner
 dashboard.honeygain.com##.bBUePv.sc-eHgmQL.sc-ckVGcZ
 
-! 2021-10-27 https://trakt.tv
-! Remove ads about VIP
-trakt.tv##.col-xs-6.col-sm-3.col-md-3.col-lg-2.col-xlg-2.col-xxlg-1.c7f7a-grid-item.grid-item
-trakt.tv##.col-sm-6.col-md-4.col-xlg-3.c7f7a-grid-item.grid-item
-
 ! 2020-11-16 https://discord.com
 ! Removes install our app icon so interface matches Discord Desktop Application
 discord.com##div.listItem-2P_4kh:nth-of-type(7) > .listItemWrapper-3X98Pc > .wrapper-25eVIn.circleButtonMask-2VNJsN > .svg-1X37T1 > foreignObject > .circleIconButton-jET_ig
