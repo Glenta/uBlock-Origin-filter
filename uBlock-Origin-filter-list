@@ -1,14 +1,11 @@
 ! Title: glenta's uBlock Origin filter list
-! Last Updated: 2021-10-27
+! Last Updated: 2024-04-28
 
-! 2020-04-21 https://dashboard.honeygain.com
-! Removes cookie banner
-dashboard.honeygain.com##.bBUePv.sc-eHgmQL.sc-ckVGcZ
-
-! 2020-11-16 https://discord.com
-! Removes install our app icon so interface matches Discord Desktop Application
-discord.com##div.listItem-2P_4kh:nth-of-type(7) > .listItemWrapper-3X98Pc > .wrapper-25eVIn.circleButtonMask-2VNJsN > .svg-1X37T1 > foreignObject > .circleIconButton-jET_ig
-discord.com##div.listItem-2P_4kh:nth-of-type(7) > .listItemWrapper-3X98Pc > .wrapper-25eVIn.circleButtonMask-2VNJsN > .svg-1X37T1 > foreignObject
-discord.com##div.listItem-2P_4kh:nth-of-type(7) > .listItemWrapper-3X98Pc > .wrapper-25eVIn.circleButtonMask-2VNJsN > .svg-1X37T1
-discord.com##div.listItem-2P_4kh:nth-of-type(7) > .listItemWrapper-3X98Pc > .wrapper-25eVIn.circleButtonMask-2VNJsN
-discord.com##div.listItem-2P_4kh:nth-of-type(6) > .guildSeparator-3s64Iy
+! 2024-04-28 https://tvroom.org
+! Removes all ads and unnecessary notices
+tvroom.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
+tvroom.org##div.fs-margin-section.section-box:nth-of-type(2)
+tvroom.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
+tvroom.org##.mt-2.fs-margin-section
+tvroom.org##.anchor_banner.fs-margin-section.section-box > div
+tvroom.org###mq-notice
