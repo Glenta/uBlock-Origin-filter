@@ -3,9 +3,10 @@
 
 ! 2024-04-28 https://tvroom.org
 ! Removes all ads, popups, and unnecessary notices
-tvroom[0-9]+.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
-tvroom[0-9]+.org##div.fs-margin-section.section-box:nth-of-type(2)
-tvroom[0-9]+.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
-tvroom[0-9]+.org##.mt-2.fs-margin-section
-tvroom[0-9]+.org##.anchor_banner.fs-margin-section.section-box > div
-tvroom[0-9]+.org###mq-notice
+||tvroom.org/resource/js/iziModal.min.js$script,1p
+tvroom\d.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
+tvroom\d.org##div.fs-margin-section.section-box:nth-of-type(2)
+tvroom\d.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
+tvroom\d.org##.mt-2.fs-margin-section
+tvroom\d.org##.anchor_banner.fs-margin-section.section-box > div
+tvroom\d.org###mq-notice
