@@ -1,7 +1,7 @@
 ! Title: glenta's uBlock Origin filter list
-! Last Updated: 2024-07-22
+! Last Updated: 2024-08-12
 
-! 2024-07-22 https://tvroom.org
+! 2024-08-12 https://tvroom.org
 ! Removes all ads, popups, and unnecessary notices
 ||tvroom.org/resource/js/iziModal.min.js$script,1p
 tvroom.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
@@ -19,3 +19,11 @@ tvroom3.org##.mt-2.fs-margin-section
 tvroom3.org##.anchor_banner.fs-margin-section.section-box > div
 tvroom3.org###mq-notice
 tvroom3.org###ad_d_2
+||tvroom4.org/resource/js/iziModal.min.js$script,1p
+tvroom4.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
+tvroom4.org##div.fs-margin-section.section-box:nth-of-type(2)
+tvroom4.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
+tvroom4.org##.mt-2.fs-margin-section
+tvroom4.org##.anchor_banner.fs-margin-section.section-box > div
+tvroom4.org###mq-notice
+tvroom4.org###ad_d_2
