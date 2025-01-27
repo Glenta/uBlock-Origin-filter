@@ -1,5 +1,5 @@
 ! Title: glenta's uBlock Origin filter list
-! Last Updated: 2024-11-17
+! Last Updated: 2025-01-27
 
 ! 2024-08-12 https://tvroom.org
 ! Removes all ads, popups, and unnecessary notices
@@ -35,3 +35,6 @@ tvroom5.org##.mt-2.fs-margin-section
 tvroom5.org##.anchor_banner.fs-margin-section.section-box > div
 tvroom5.org###mq-notice
 tvroom5.org###ad_d_2
+! Jan 27, 2025 https://tvlimit5.xyz
+! Removes ad banner
+tvlimit5.xyz##[href] > [src]
