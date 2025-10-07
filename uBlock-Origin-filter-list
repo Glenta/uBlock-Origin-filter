@@ -1,49 +1,8 @@
 ! Title: glenta's uBlock Origin filter list
-! Last Updated: 2025-07-17
+! Last Updated: 2025-10-07
 
-! 2024-08-12 https://tvroom.org
+! 2024-08-12 https://tvroom11.org
 ! Removes all ads, popups, and unnecessary notices
-||tvroom.org/resource/js/iziModal.min.js$script,1p
-tvroom.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
-tvroom.org##div.fs-margin-section.section-box:nth-of-type(2)
-tvroom.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
-tvroom.org##.mt-2.fs-margin-section
-tvroom.org##.anchor_banner.fs-margin-section.section-box > div
-tvroom.org###mq-notice
-tvroom.org###ad_d_2
-||tvroom3.org/resource/js/iziModal.min.js$script,1p
-tvroom3.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
-tvroom3.org##div.fs-margin-section.section-box:nth-of-type(2)
-tvroom3.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
-tvroom3.org##.mt-2.fs-margin-section
-tvroom3.org##.anchor_banner.fs-margin-section.section-box > div
-tvroom3.org###mq-notice
-tvroom3.org###ad_d_2
-||tvroom4.org/resource/js/iziModal.min.js$script,1p
-tvroom4.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
-tvroom4.org##div.fs-margin-section.section-box:nth-of-type(2)
-tvroom4.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
-tvroom4.org##.mt-2.fs-margin-section
-tvroom4.org##.anchor_banner.fs-margin-section.section-box > div
-tvroom4.org###mq-notice
-tvroom4.org###ad_d_2
-||tvroom5.org/resource/js/iziModal.min.js$script,1p
-tvroom5.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
-tvroom5.org##div.fs-margin-section.section-box:nth-of-type(2)
-tvroom5.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
-tvroom5.org##.mt-2.fs-margin-section
-tvroom5.org##.anchor_banner.fs-margin-section.section-box > div
-tvroom5.org###mq-notice
-tvroom5.org###ad_d_2
-||tvroom7.org/resource/js/iziModal.min.js$script,1p
-tvroom7.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
-tvroom7.org##div.fs-margin-section.section-box:nth-of-type(2)
-tvroom7.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
-tvroom7.org##.mt-2.fs-margin-section
-tvroom7.org##.anchor_banner.fs-margin-section.section-box > div
-tvroom7.org###mq-notice
-tvroom7.org###ad_d_2
-||tvroom11.org/resource/js/iziModal.min.js$script,1p
 tvroom11.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
 tvroom11.org##div.fs-margin-section.section-box:nth-of-type(2)
 tvroom11.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
