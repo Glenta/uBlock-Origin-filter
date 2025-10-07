@@ -43,14 +43,14 @@ tvroom7.org##.mt-2.fs-margin-section
 tvroom7.org##.anchor_banner.fs-margin-section.section-box > div
 tvroom7.org###mq-notice
 tvroom7.org###ad_d_2
-||tvroom10.org/resource/js/iziModal.min.js$script,1p
-tvroom10.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
-tvroom10.org##div.fs-margin-section.section-box:nth-of-type(2)
-tvroom10.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
-tvroom10.org##.mt-2.fs-margin-section
-tvroom10.org##.anchor_banner.fs-margin-section.section-box > div
-tvroom10.org###mq-notice
-tvroom10.org###ad_d_2
+||tvroom11.org/resource/js/iziModal.min.js$script,1p
+tvroom11.org##li.mb-lg-3.mb-sm-1.menu-item > [href^="/index/banner_click"]
+tvroom11.org##div.fs-margin-section.section-box:nth-of-type(2)
+tvroom11.org###ad_d_1 > div.banner_l.text-center > [href^="/index/banner_click"]
+tvroom11.org##.mt-2.fs-margin-section
+tvroom11.org##.anchor_banner.fs-margin-section.section-box > div
+tvroom11.org###mq-notice
+tvroom11.org###ad_d_2
 ! Jan 27, 2025 https://tvlimit5.xyz
 ! Removes ad banner
 tvlimit5.xyz##[href] > [src]
